@@ -83,7 +83,7 @@
         - Quando o tempo do Contrato for Excedido, Envie Alerta de Horas por SMS
 
     - **Pesquisa Avançada**
-      - Fornecedor  - Tipo - Matriz
+      - Fornecedor - Tipo - Matriz
       - Grupo de empresas
       - Empresas
       - Nome fantasia
