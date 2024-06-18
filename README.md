@@ -174,7 +174,8 @@
 - Permitir que Solicitantes Reabram Chamados
   - Bloquear Reabertura via Email
   - Dias para Reabertura do Chamado (Dias Corridos) - Indeterminado
-  - Criar chamado filho associado ao chamado finalizado caso ocorra uma tentativa de reabertura via email.
+  - Criar chamado filho associado ao chamado finalizado caso ocorra uma tentativa de reabertura via email. (Caso essa opção esteja ativa, quando o solicitante reabrir o chamado, ele cria um novo chamado filho vinculado ao chamado pai)
+  - (Se não selecionar nenhuma opção ele pode reabrir o chamado via email)
 - Tipo de Ocorrência
 - Causa
 - Observação:
@@ -407,7 +408,7 @@ Existem 5 regras para esta rotina:
 
 #### Grupo de empresa
 
-- Grupo de empresas
+- Grupo de empresas; Vincular o grupo de empresas pra facilitar a distribuição de relatórios.
 
 #### Anexos
 - Adicionar Anexos
@@ -450,7 +451,7 @@ Existem 5 regras para esta rotina:
 - Enviar alerta por email
 
 ## Criar modelo de contratos
-
+Ja deixa as funções pré definidas, possível clonar o contrato.
 - Nome
 - Custo
 - Enviar alerta em
@@ -467,7 +468,7 @@ Existem 5 regras para esta rotina:
 - Nome
 
 ## Criar campos extras
-
+  Campo extra dissertativo ou tipo lista (Se for tipo lista pode colocar multipla escolha)
 - Nome
 - Label opcional
 - Label explicação (opcional)
